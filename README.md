@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Michael
-Freshman Computer Science student with concentrations in Intelligence, and Systems & Architecture <br/>
+🎓 Freshman Computer Science student with concentrations in Intelligence, and Systems & Architecture <br/>
 🌱 I’m currently learning React.js to enhance my front-end development skills <br/>
-I'm currently working on my personal portfolio 
+⚙ I'm currently working on my personal portfolio 
 ## 📫 Contact Me!
 - Linkedin: ...
 - Email: ...
