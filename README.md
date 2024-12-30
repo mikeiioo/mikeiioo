@@ -5,7 +5,7 @@
 # Tech Stack
 -
 ## 📫 Contact Me!
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)  [My Profile](https://www.linkedin.com/in/michael-abraham-a9b120214/)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) - ### [My Profile](https://www.linkedin.com/in/michael-abraham-a9b120214/)
 - Email: [Gmail](michaelabraham2005@gmail.com)
 
 <!---
