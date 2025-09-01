@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Michael
-🎓 Sopohmore Computer Science student with concentrations in Intelligence, and Systems & Architecture <br/>
+🎓 Sophomore Computer Science student with concentrations in Intelligence, and Systems & Architecture <br/>
 🌱 I’m currently learning React.js to enhance my Front-End development skills <br/>
 ⚙ I'm currently working on my [Personal Portfolio](https://github.com/mikeiioo/LandingPage)
 # 💻 Tech Stack
